@@ -26,7 +26,14 @@ import com.google.gson.Gson;
 import cn.bjsxt.pojo.Car;
 import cn.bjsxt.pojo.RentTable;
 import cn.bjsxt.service.CarService;
-
+/**
+ * 功能描述:〈〉
+ * 
+ * @param : 
+ * @return : 
+ * @author : yanggd
+ * @date : 2019/11/26 18:15
+ */
 @Controller
 public class CarConroller {
 	@Autowired
