@@ -17,7 +17,12 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-
+/**
+ * 功能描述:〈〉
+ *
+ * @author : yanggd
+ * @date : 2019/11/27 15:19
+ */
 @Controller
 public class CheckableController {
 	
